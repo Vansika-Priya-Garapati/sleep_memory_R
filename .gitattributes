@@ -1,0 +1,9 @@
+# Ignore datasets and metadata from language statistics
+*.bib linguist-vendored
+*.RData linguist-generated
+*.csv linguist-vendored
+*.xlsx linguist-vendored
+*.txt linguist-vendored
+
+# Treat documentation files correctly
+*.tex linguist-documentation
