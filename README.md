@@ -12,3 +12,5 @@ Data - **diane_data.bib** found in **data** folder ; R Scripts found in **script
   * *Skills:* Created PDF table styling, loaded saved CSV, and saved the table as a PDF - **top_10_most_cited_papers_table.pdf** in **outputs** folder
 * **Top 5 Most Cited Papers Table: top_5_cited_papers.R**
   * *Skills:* Created PDF table styling, loaded saved CSV, filtered down to top 5, and saved the table as a PDF - **top_5_most_cited_papers_table.pdf** in **outputs** folder
+ 
+  *Maintained by Vansika Priya Garapati*
