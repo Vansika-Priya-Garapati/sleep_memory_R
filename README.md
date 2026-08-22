@@ -1,4 +1,5 @@
 # sleep_memory_R
+R Code and Outputs generated for Group 8 Cognitive & Computational Neuroscience during ThinkNeuro Research Internship.
 ### Group 8 Cognitive and Computational Neuroscience (bibliometrics_research_project) 
 Data - **diane_data.bib** found in **data** folder ; R Scripts found in **scripts** folder
 * **Keyword Co-Occurrence Network: Keyword_Cooccurrence_Network.R**
